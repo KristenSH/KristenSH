@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kristen
 
-I'm a C++, Unreal Engine and Python developer who like to create new tools, games, simulations and other stuff are related to high level programming.
+I'm a C++, Unreal Engine, C# and Python developer who like to create new tools, games, simulations, web apps and other stuff are related to high level programming.
 ---
 
 ##### Main skills and tools:
