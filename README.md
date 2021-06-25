@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Email](mailto:kristen.s.haave@outlook.com)
 - ⚡ Fun fact: Programmers never give up!
 
+NB! Several projects are under in-progress!
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristenSH)
