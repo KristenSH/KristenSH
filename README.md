@@ -9,8 +9,8 @@ I'm a C++, Unreal Engine, C# and Python developer who like to create new tools, 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a FPS game and pipeline tools for Unreal Engine
-- 🌱 I’m currently learning new way to integrate Python modules on Unreal Engine
+- 🔭 I’m currently working on a FPS game and pipeline tools for Unreal Engine and other minor projects
+- 🌱 I’m currently learning new way to integrate Python modules on Unreal Engine and trying to learn web development with .NET programming
 - 👯 I’m looking to collaborate on innovative projects
 - 🤔 I would like help with an introduction to C++ and Python.
 - 💬 Ask me about something else. So, feel free to contact me! 
